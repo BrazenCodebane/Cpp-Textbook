@@ -1,7 +1,8 @@
 # Chapter 1: Hello World and Hello Variables
 
 ## Introduction
-    In this chapter, we will explore the foundational concepts of C++ programming by writing our very first program: "Hello, World!" This simple yet iconic program serves as a rite of passage for many programmers. We will also introduce the concept of variables, which are essential for storing and manipulating data in our programs. By the end of this chapter, you will have a basic understanding of how to write and run a C++ program, as well as how to declare and use variables.
+    In this chapter, we will explore the foundational concepts of C++ programming by 
+    writing our very first program: "Hello, World!" This simple yet iconic program serves as a rite of passage for many programmers. We will also introduce the concept of variables, which are essential for storing and manipulating data in our programs. By the end of this chapter, you will have a basic understanding of how to write and run a C++ program, as well as how to declare and use variables.
 
 ## 1.1 Writing Your First C++ Program
 What is C++?
@@ -17,11 +18,13 @@ A typical C++ program consists of one or more functions, with the main() functio
 int main() {
     // Code to be executed goes here
     return 0; // Return statement
-}
+}```
+
+
 "Hello, World!" Program
 Now, let’s write our first C++ program that prints "Hello, World!" to the console. Here’s the complete code:
 
-```
+
 
 
 ```cpp
