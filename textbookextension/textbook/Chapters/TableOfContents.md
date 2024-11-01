@@ -11,7 +11,7 @@
 
 ## Chapter 4b: [Loops](chapter4b.md)
 
-## Chapter 5: [Methods and Functions](chapter5.md)
+## Chapter 5: [Functions](chapter5.md)
 
 ## Chapter 6: [Scope](chapter6.md)
 

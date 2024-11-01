@@ -21,6 +21,15 @@ Arithmetic operators are used to perform basic mathematical operations. The comm
 
 |`%`|Modulus|`a % b`|
 
+|`++`|post-increment|`a++`|
+
+|`++`|pre-increment|`++a`|
+
+|`--`|post-decrement|`a--`|
+
+|`--`|pre-decrement|`--a`|
+
+
 ### Example: Using Arithmetic Operators
 Let’s write a simple program that demonstrates the use of arithmetic operators:
 
