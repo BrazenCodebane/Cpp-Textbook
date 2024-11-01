@@ -1,3 +1,5 @@
+[Return to table of contents](TableOfContents.md)
+
 # Chapter 4: Control Flow Statements
 ## Introduction
     In this chapter, we will discuss control flow statements in C++. Control flow statements are essential tools that help determine the order in which different parts of a program are executed. They allow you to make decisions, repeat actions, and manage how your program behaves based on certain conditions. Understanding control flow is crucial for writing effective and functional programs. We will cover three main types of control flow statements: conditional statements, loops, and branching statements.
@@ -40,3 +42,5 @@ Branching statements allow you to change the flow of control in a program. The m
 
 ## Conclusion
 Control flow statements are fundamental to programming in C++. They allow you to make decisions, repeat actions, and manage how your program behaves based on different conditions. By mastering these statements, you will be able to write more complex and functional programs that can respond dynamically to user input and other conditions. In the next chapter, we will explore functions, which are essential for organizing and reusing code in your programs.
+
+[Return to table of contents](TableOfContents.md)
