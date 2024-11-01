@@ -18,7 +18,8 @@ A typical C++ program consists of one or more functions, with the main() functio
 int main() {
     // Code to be executed goes here
     return 0; // Return statement
-}```
+}
+```
 
 
 "Hello, World!" Program
