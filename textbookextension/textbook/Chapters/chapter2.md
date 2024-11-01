@@ -1,3 +1,5 @@
+[Return to table of contents](TableOfContents.md)
+
 # Chapter 2: Data Types
 ## Introduction
     In the previous chapter, we wrote our first C++ program and learned about variables. In this chapter, we will delve deeper into the types of data that can be stored in variables and the operators that can be used to manipulate this data. Understanding data types and operators is crucial for effective programming, as they form the building blocks for creating complex expressions and algorithms.
