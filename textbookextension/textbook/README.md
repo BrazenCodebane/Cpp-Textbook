@@ -1,65 +1,38 @@
-# textbook README
+# Welcome to the C++ textbook.
 
-This is the README for your extension "textbook". After writing up a brief description, we recommend including the following sections.
 
-## Features
+## Chapter 1: [Hello World and Hello variables](Chapters/chapter1.md)
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+## Chapter 2: [Data Types](Chapters/chapter2.md)
 
-For example if there is an image subfolder under your extension project workspace:
+## Chapter 3: [Operators](Chapters/chapter3.md)
 
-\!\[feature X\]\(images/feature-x.png\)
+## Chapter 4: [Control flow](Chapters/chapter4.md)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Chapter 4a: [If/else if/else  || switch](Chapters/chapter4a.md)
 
-## Requirements
+## Chapter 4b: [Loops](Chapters/chapter4b.md)
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Chapter 5: [Functions](Chapters/chapter5.md)
 
-## Extension Settings
+## Chapter 6: [Scope](Chapters/chapter6.md)
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## Chapter 7: [Strings and String manipulation](Chapters/chapter7.md)
 
-For example:
+## Chapter 8: [Arrays and Vectors](Chapters/chapter8.md)
 
-This extension contributes the following settings:
+## Chapter 9: [Introduction to Pointers](Chapters/chapter9.md)
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+## Chapter 10: [Object-Oriented Programming (OOP) Concepts](Chapters/chapter10.md)
 
-## Known Issues
+## Chapter 10a: [The Almighty Class](Chapters/chapter10a.md)
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+## Chapter 10b: [Class Member Access Specifiers](Chapters/chapter10b.md)
 
-## Release Notes
+## Chapter 11: [Naming Conventions](Chapters/chapter11.md)
 
-Users appreciate release notes as you update your extension.
+## Chapter 12: [File Input and Output](Chapters/chapter12.md)
 
-### 1.0.0
+## Chapter 13: [Exception Handling](Chapters/chapter13.md)
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Chapter 14: [Templates](Chapters/chapter14.md)

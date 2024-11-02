@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this chapter, we will explore file input and output (I/O) in C++. File I/O is a critical aspect of programming that allows you to read from and write to files on the disk. This capability is essential for data persistence, allowing programs to save information between executions. By the end of this chapter, you will have a solid understanding of how to work with files in C++, including opening, reading, writing, and closing files.
+    In this chapter, we will explore file input and output (I/O) in C++. File I/O is a critical aspect of programming that allows you to read from and write to files on the disk. This capability is essential for data persistence, allowing programs to save information between executions. By the end of this chapter, you will have a solid understanding of how to work with files in C++, including opening, reading, writing, and closing files.
 
 ## 12.1 File Streams
 

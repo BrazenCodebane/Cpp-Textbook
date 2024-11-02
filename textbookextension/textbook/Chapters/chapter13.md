@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this chapter, we will explore exception handling in C++. Exception handling is a powerful mechanism that allows you to manage errors and exceptional situations in your programs gracefully. By using exceptions, you can separate error-handling code from regular code, making your programs cleaner and easier to maintain. By the end of this chapter, you will have a solid understanding of how to use try, catch, and throw statements to handle exceptions in C++.
+    In this chapter, we will explore exception handling in C++. Exception handling is a powerful mechanism that allows you to manage errors and exceptional situations in your programs gracefully. By using exceptions, you can separate error-handling code from regular code, making your programs cleaner and easier to maintain. By the end of this chapter, you will have a solid understanding of how to use try, catch, and throw statements to handle exceptions in C++.
 
 ## 13.1 What are Exceptions?
 

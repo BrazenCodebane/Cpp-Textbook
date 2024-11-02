@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this chapter, we will explore naming conventions in C++. Naming conventions are essential for writing clean, readable, and maintainable code. They provide a consistent way to name variables, functions, classes, and other identifiers, making it easier for developers to understand and collaborate on codebases. By following established naming conventions, you can enhance the clarity of your code and reduce the likelihood of errors. By the end of this chapter, you will have a solid understanding of common naming conventions used in C++ programming.
+    In this chapter, we will explore naming conventions in C++. Naming conventions are essential for writing clean, readable, and maintainable code. They provide a consistent way to name variables, functions, classes, and other identifiers, making it easier for developers to understand and collaborate on codebases. By following established naming conventions, you can enhance the clarity of your code and reduce the likelihood of errors. By the end of this chapter, you will have a solid understanding of common naming conventions used in C++ programming.
 
 ## 11.1 General Guidelines
 
