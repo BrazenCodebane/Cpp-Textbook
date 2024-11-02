@@ -1,7 +1,8 @@
 
+
 [Return to table of contents](TableOfContents.md)
 
-# Chapter 2: Scope (Global or Local)
+# Chapter 6: Scope (Global or Local)
 
 ## Introduction
 
