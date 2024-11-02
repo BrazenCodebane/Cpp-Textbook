@@ -23,8 +23,14 @@
 
 ## Chapter 10: [Object-Oriented Programming (OOP) Concepts](chapter10.md)
 
+## Chapter 10a: [The Almighty Class](chapter10a.md)
+
+## Chapter 10b: [Class Member Access Specifiers](chapter10b.md)
+
 ## Chapter 11: [Naming Conventions](chapter11.md)
 
 ## Chapter 12: [File Input and Output](chapter12.md)
 
 ## Chapter 13: [Exception Handling](chapter13.md)
+
+## Chapter 14: [Templates](chapter14.md)
